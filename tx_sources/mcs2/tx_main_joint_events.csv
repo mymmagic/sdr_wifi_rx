@@ -1,0 +1,6 @@
+cycle,time_ns,event,arg0,arg1,arg2,arg3
+39,395000,config,0x000000e8,0x0000000d,0x0002c064,0x010002ab
+65,655000,s_axis_done,13,0,0,0
+129,1295000,phy_tx_start,15,15,0,0
+131,1315000,phy_tx_started,0,0,1,22
+7069,70695000,phy_tx_done,1511,1467,0,1

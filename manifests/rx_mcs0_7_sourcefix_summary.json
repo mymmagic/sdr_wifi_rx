@@ -1,0 +1,74 @@
+[
+    {
+        "MCS":  0,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs0_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  45988071
+    },
+    {
+        "MCS":  1,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs1_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  32818455
+    },
+    {
+        "MCS":  2,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs2_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  27773002
+    },
+    {
+        "MCS":  3,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs3_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  26169725
+    },
+    {
+        "MCS":  4,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs4_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  23627136
+    },
+    {
+        "MCS":  5,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs5_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  22846111
+    },
+    {
+        "MCS":  6,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs6_htsigfix_sourcefix_240us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  21979343
+    },
+    {
+        "MCS":  7,
+        "ResultDir":  "C:\\Users\\联想\\Documents\\Codex\\2026-06-20\\wifi-c-wifi\\outputs\\tx_rx_loopback_sim\\results\\rx_joint_mcs7_htsigfix_sourcefix_160us",
+        "PhyHeader":  "1",
+        "FcsOk":  "1",
+        "AxisTlast":  "1",
+        "Status":  "PASS",
+        "WdbSize":  21935340
+    }
+]

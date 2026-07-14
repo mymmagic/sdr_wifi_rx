@@ -1,0 +1,1 @@
+W:/outputs/tx_rx_loopback_sim/stim/baseline_current_mcs7_core_htsigfix.txt
